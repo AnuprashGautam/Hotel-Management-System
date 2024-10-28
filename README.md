@@ -24,9 +24,9 @@ A streamlined Hotel Management System that allows for efficient handling of hote
 
 ```plaintext
 📦 HotelManagementSystem
-├── 📄 hotel_db.sql                        # Contains the sql queries required to make the databse.
-├── 📂 src 
-     ├── 📄 HotelManangementSystem.java    # This is the acutual code file.
+├── 📂 src
+     ├── 📄 hotel_db.sql                        # Contains the sql queries required to make the databse.
+     ├── 📄 HotelManangementSystem.java         # This is the acutual code file.
 ```
 
 ## 🔧 Configure your MySQL database settings in the HotelManagementSystem.java file:
