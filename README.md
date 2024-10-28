@@ -1,7 +1,3 @@
-Here's a polished README template for your Hotel Management project:
-
----
-
 # 🏨 Hotel Management System
 
 A streamlined Hotel Management System that allows for efficient handling of hotel reservations and room management. Built using **Java (JDBC)**, **MySQL**, and **IntelliJ** IDE, this project provides a clean command line interface for essential hotel operations.
